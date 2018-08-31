@@ -1,6 +1,6 @@
 # 程序员健康危机的 9 大常见症状
 
-![封面-](../img/AdobeStock_193171317_Preview.jpeg)
+![封面-](../img/AdobeStock_193171317_Preview.png)
 
 ## 腕部疼痛
 
