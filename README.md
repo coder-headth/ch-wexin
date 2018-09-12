@@ -23,3 +23,4 @@ A set of article about coder &amp; health published on the wexin
 
 - [程序员健康危机的九大常见症状](./doc/程序员健康危机的九大常见症状.md)
 - [世界公认最健康的作息时间表](./doc/世界公认最健康的作息时间表.md)
+- [码农薪资瓶颈的经济学解释](./doc/码农薪资瓶颈的经济学解释.md)
