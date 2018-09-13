@@ -28,3 +28,6 @@ A set of article about coder &amp; health published on the wexin
 
 ## 转载
 
+- [REST, GraphQL, Webhooks, & gRPC 如何选型](./doc/REST, GraphQL, Webhooks, & gRPC 如何选型.md)
+- [翻译自](https://github.com/epicmaxco/epic-spinners?ref=producthunt)(翻译：黄子毅)
+
