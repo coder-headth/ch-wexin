@@ -1,4 +1,4 @@
-# 为什么刘立军坚信 React 是 UI 的未来
+# 为什么刘立军说 React 是 UI 的未来
 
 ![刘胖子](../img/llj.jpg)
 
