@@ -32,3 +32,4 @@ A set of article about coder &amp; health published on the wexin
 - [REST, GraphQL, Webhooks, & gRPC 如何选型](./doc/REST_GraphQL_Webhooks_&_gRPC如何选型.md)
 - [翻译自](https://github.com/epicmaxco/epic-spinners?ref=producthunt)(翻译：黄子毅)
 - [为什么刘立军说 React 是 UI 的未来](./doc/为什么刘立军说React是UI的未来.md)
+- [程序员压力过大怎么办](./doc/程序员压力过大怎么办.md)
