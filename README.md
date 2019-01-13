@@ -12,7 +12,7 @@ A set of article about coder &amp; health published on the wexin
 
 ## 二. 系列
 
-- GeekFitness 极客囚徒
+- GeekFitness 极客健身
 - GuitarHub 吉他实验室
 - GeekPainting 极客手绘
 
