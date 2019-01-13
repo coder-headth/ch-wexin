@@ -2,6 +2,8 @@
 
 专属极客的健康指南，包括健身，养生，饮食，时间管理，精进之道
 
+A set of article about coder &amp; health published on the wexin
+
 ## 一. 价值
 
 - 对大众健身，健康养生奥秘的一次深加工
@@ -23,7 +25,7 @@
 
 ## 四. 转载
 
-- [REST, GraphQL, Webhooks, & gRPC 如何选型](./doc/REST, GraphQL, Webhooks, & gRPC 如何选型.md)
+- [REST, GraphQL, Webhooks, & gRPC 如何选型](./doc/REST_GraphQL_Webhooks_&_gRPC如何选型.md)
 - [翻译自](https://github.com/epicmaxco/epic-spinners?ref=producthunt)(翻译：黄子毅)
 
 ## 五. 平台
