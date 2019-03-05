@@ -12,9 +12,11 @@ A set of article about coder &amp; health published on the wexin
 
 ## 二. 系列
 
-- GeekFitness 极客健身
+- [GitkFitness 极客氧生](./GitkFitness/README.md)
 - GuitarHub 吉他实验室
 - GeekPainting 极客手绘
+- GeekHicking 极客户外
+- 养生馆预约
 
 ## 三. 原创
 
